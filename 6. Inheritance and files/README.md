@@ -1,4 +1,5 @@
 PART 1
+
 1.Design a class named Polygon that initializes with the length of a side. Then, derive a class named Square from the Polygon class. Utilize the side length defined in the Polygon class for the Square class. Within the Square class, implement a method called findArea() that calculates and returns the square's area based on its side length. Use __init__() for necessary initialization
 
      2.  (a)  Create a class Father with attributes
