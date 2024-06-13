@@ -8,4 +8,4 @@ PART 1
 
 PART 2
  Logistic regression. Using the data provided (Logistic_regression_ls.csv), plot the decision boundary (linear) using Optimization of the sigmoid function.
-https://courses.iitm.ac.in/pluginfile.php/117070/mod_assign/introattachment/0/Logistic_regression_ls.csv?forcedownload=1
+[Logistic_regression_ls.csv](https://github.com/user-attachments/files/15827403/Logistic_regression_ls.csv)
