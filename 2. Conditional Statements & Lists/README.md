@@ -17,15 +17,6 @@ b. Using the pass statement
 
 4. Pascal’s  Triangle : Print the following pattern for the given N number of rows.
 
-Sample Example:
-
-Pattern for N = 8
-
-
-
-
-
-
 5. A palindrome sentence is a phrase or sentence that reads the same forward as it does backward, ignoring spaces, punctuation, and capitalization.
 
 
