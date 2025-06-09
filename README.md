@@ -2,7 +2,6 @@ Course Details
 
 Data Science: Theory and practice-ED5340
 
-Approved Details
 
 Description:To equip the students in both theory and practice (through lab sessions) of a few topics in data science.
 
